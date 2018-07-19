@@ -169,4 +169,9 @@ skills:
         - skill:
           name: Java
           level: 85%  
-
+        - skill:
+          name: React/Solidity
+          level: 30%
+        - skill:
+          name: Python/Go/Rust/R/Scala/Solidity
+          level: 15%  
