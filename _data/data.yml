@@ -170,6 +170,9 @@ skills:
           name: Java
           level: 85%  
         - skill:
+          name: C/C++/.NET
+          level: 50% 
+        - skill:
           name: React/Solidity
           level: 30%
         - skill:
