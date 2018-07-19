@@ -173,5 +173,5 @@ skills:
           name: React/Solidity
           level: 30%
         - skill:
-          name: Python/Go/Rust/R/Scala/Solidity
+          name: Python/Go/Rust/R/Scala
           level: 15%  
