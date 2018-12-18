@@ -99,7 +99,16 @@ experiences:
               - Built a fast and lightweight embeddable SCORM player, overcoming XSS issues
               - Architecture, PM, design/UX, BA, QA, supper, management, leadership 
               - Recruited and managed a team of 5
-          
+
+        - role: Consultant
+          time: 2011
+          company: Cleardocs (UK)
+          details: Dynamic legal documents online (backed by a major law firm). Expansion into UK market.  
+          bullets:
+              - Part-time consulting during a year-long living / travel through Europe.
+              - Created, configured and deployed a UK version of Cleardocs.
+              - High-level design and product features for Cleardocs Australia.
+
         - role: Software Engineer
           time: 2005 - 2010
           company: Cleardocs
@@ -170,11 +179,14 @@ skills:
           name: Java
           level: 85%  
         - skill:
+          name: Go
+          level: 60% 
+        - skill:
           name: C/C++/.NET
           level: 50% 
         - skill:
           name: React/Solidity
           level: 30%
         - skill:
-          name: Python/Go/Rust/R/Scala
+          name: Python/Rust/R/Scala
           level: 10%  
