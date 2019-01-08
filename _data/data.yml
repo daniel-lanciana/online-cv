@@ -74,11 +74,10 @@ experiences:
           details: Social currency layer protocol for the web built on the Ethereum blockchain. 
           bullets:
               - Provisioned services (AWS, Heroku, Confluence, GitHub, Flywheel, Ghost, Digital Ocean) 
-              - Launched marketing pages with email signup integration and SEO optimization
+              - Launched marketing pages (signup, SEO)
               - Architected infrastructure (database, API Gateway, Go microservices, gRPC, Docker, Istio, SQS)
-              - Ethereum blockchain integration (token proposal, acceptance, issuance, vesting, deposit, withdraw)
+              - Ethereum blockchain integration
               - SDK (APIs, docs, integration test suite) 
-              - Internal wallet balance management (atomic transactions)
               - Created React frontend
               
         - role: Tech Lead
