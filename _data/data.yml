@@ -71,12 +71,13 @@ experiences:
         - role: Senior Software Engineer
           time: 2018 - 2019
           company: Roll
-          details: Social currency layer protocol for the web built on Ethereum blockchain. 
+          details: Social currency layer protocol for the web built on the Ethereum blockchain. 
           bullets:
               - Provisioned services (AWS, Heroku, Confluence, GitHub, Flywheel, Ghost, Digital Ocean) 
               - Launched marketing pages with email signup integration and SEO optimization
               - Architected infrastructure (database, API Gateway, Go microservices, gRPC, Docker, Istio, SQS)
               - Ethereum blockchain integration (token proposal, acceptance, issuance, vesting, deposit, withdraw)
+              - SDK (APIs, docs, integration test suite) 
               - Internal wallet balance management (atomic transactions)
               - Created React frontend
               
