@@ -73,7 +73,7 @@ experiences:
           company: Roll
           details: Social currency layer protocol for the web built on the Ethereum blockchain. 
           bullets:
-              - Provisioned services (AWS, Heroku, Confluence, GitHub, Flywheel, Ghost, Digital Ocean) 
+              - Provisioned services (AWS, Heroku, Confluence, GitHub, GitLab, Flywheel, Ghost, Digital Ocean) 
               - Launched marketing pages (signup, SEO)
               - Architected infrastructure (database, API Gateway, Go microservices, gRPC, Docker, Istio, SQS)
               - Ethereum blockchain integration
