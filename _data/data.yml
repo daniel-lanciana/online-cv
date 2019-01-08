@@ -68,8 +68,20 @@ experiences:
     title: Experience
     
     experiences:
+        - role: Senior Software Engineer
+          time: 2018 - 2019
+          company: Roll
+          details: Social currency layer protocol for the web build on Ethereum blockchain. 
+          bullets:
+              - Provisioned services (AWS, Heroku, Confluence, GitHub, Flywheel, Ghost, Digital Ocean) 
+              - Launched marketing pages with email signup integration and SEO optimization
+              - Architected infrastructure (database, API Gateway, Go microservices, gRPC, Docker, Istio, SQS)
+              - Ethereum blockchain integration (token proposal, acceptance, issuance, vesting, deposit, withdraw)
+              - Internal wallet balance management (atomic transactions)
+              - Created React frontend
+              
         - role: Tech Lead
-          time: 2015 - Present
+          time: 2015 - 2018
           company: IVY
           details: Social network for entrepreneurs -- part Facebook, Eventbrite, LinkedIn, Meetup, Groupon, Messenger and Reddit. 
           bullets:
